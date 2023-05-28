@@ -1,0 +1,45 @@
+table, tr, td {
+    border: 1px solid black;
+}
+table {
+    width: 100%;
+}
+h1{
+    text-align: center; color: aqua;
+}
+table, tr, td {
+    border: 1px solid black;
+}
+td{
+    width: max-content;
+}
+.blue{
+    background-color: blue;
+}
+table, tr, td {
+    border: 1px solid black;
+}
+td{
+    width: max-content;
+}
+.red{
+    background-color: red;
+}
+table, tr, td {
+    border: 1px solid black;
+}
+td{
+    width: max-content;
+}
+.yellow{
+    background-color: yellow;
+}
+table, tr, td {
+    border: 1px solid black;
+}
+td{
+    width: max-content;
+}
+.green{
+    background-color: greenyellow;
+}
